@@ -48,17 +48,17 @@ Currently exploring **Digital Forensics, Cryptography, and Embedded Systems**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahukotak13th&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahukotak13th&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/USERNAME
-- LinkedIn: (add if you have)
-- Email: your-email@example.com
+- GitHub: https://github.com/tahukotak13th
+- LinkedIn: https://www.linkedin.com/in/muzayyan-rozaan/
+- Email: muzayanrozaan@gmail.com
 
 ---
 
